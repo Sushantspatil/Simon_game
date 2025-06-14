@@ -1,0 +1,41 @@
+body{
+    /* overflow: hidden; */
+    /* height: 100%; */
+    text-align: center;  
+    background-color: pink;
+}
+.btn{
+    height: 140px;
+    width: 150px;
+    border-radius:50%;
+    border: 8px solid black;
+    margin: 2rem;
+    
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn_1{
+    background-color:yellow ;
+    
+}
+.btn_2{
+    background-color: red;
+}
+.btn_3{
+    background-color:purple ;
+}
+.btn_4{
+    background-color: green;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: black;
+    
+}
